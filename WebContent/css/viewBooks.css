@@ -1,0 +1,162 @@
+
+#wrapper {
+	width: 100%;
+	margin: auto;
+	padding:0px;
+	
+}
+#wrapper3 {
+	width: 97%;
+	margin: auto;
+	margin-top:50px;
+	border-radius: 10px;
+	text-align: center;
+    padding: 1px 2px;
+    text-decoration: none;
+    color: white;
+    background-color: #333;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+#wrapper2 {
+border: 3px solid black;
+    border-radius: 10px;
+	width: 790px;
+	margin: auto;
+	margin-top:50px;
+	
+	background-color: #cce5ff;
+	
+	padding-top:5px;
+	
+}
+body{
+    margin:20px;
+	padding:5px;
+	
+	
+}
+#cont1{
+   width: 510px;
+   
+   padding-left:10px;
+   padding-top:20px;
+   
+   
+}
+
+#cont2{
+   width: 510px;
+   height: 60px;
+   text-align:center;
+   padding-top:20px;
+  
+   
+}
+#errMessage{
+padding-top:15px;
+  
+  text-align:center;
+   color: red;
+   
+}
+
+#in2 {
+    
+	margin-bottom: 10px;
+	width: 90%;
+	padding: 5px;
+	margin-top: 5px;
+	border: 1px solid black;
+	font-size: 15pt;
+	border-radius: 0px;
+}
+#labelOne{
+    font-weight: 600;
+    font-size: 20pt;
+   
+}
+.button {
+    background-color: white; 
+    border: 1px solid black;
+    color: black;
+    padding:5px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button3:hover {
+    background-color: #555555;
+    color: white;
+}
+.button3 {
+width: 80%;
+border-radius: 4px;
+} 
+#left{
+    text-decoration: none;
+    color: 0e1fd3;
+}
+#left:hover {
+    background-color: #555555;
+    color: white;
+    border-radius: 4px;
+}
+
+table{
+     border-collapse: collapse;
+     border-bottom: 1px solid #555555;
+     width:99%;
+     
+     }
+     
+th{
+    border-collapse: collapse;
+    background: none repeat scroll 0 0 #555555;
+    padding:10px;
+    color:#FFFFFF;
+   }
+   tr{
+   border-top: 1px solid gray;
+   text-align: center;
+     } 
+ #fake{
+   background-color: #333333;
+    border: 0px;
+    color: white;
+    font-size: 18px;
+    float:right;
+     display: block;
+    
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#fake:hover {
+    background-color: #111;
+}       
